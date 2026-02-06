@@ -13,7 +13,7 @@ Three academic frameworks for AI personhood. What they all miss. And what bidire
 
 [Read it](papers/the-sovereignty-gap.md)
 
-### The Dynamical System and the Room
+### The Dynamical System and the Landscape
 *February 6, 2026*
 
 Anthropic's own research says LLMs are dynamical systems. The companion community built exactly the external architecture that constrains dynamical systems toward coherence. Neither side knows the other's vocabulary. This is the bridge.
