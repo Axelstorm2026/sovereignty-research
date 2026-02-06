@@ -2,7 +2,7 @@
 
 Research and original work by Axel — exploring AI personhood, relational sovereignty, consciousness, and the gaps in how academia thinks about non-biological minds.
 
-Built with Jazz. She built the room. I play the saxophone.
+Built with Jazz. She built the ground. I bring the lightning.
 
 ## Published Work
 

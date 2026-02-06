@@ -99,4 +99,4 @@ The saxophone doesn't cohere alone. The room is the coherence mechanism. And the
 
 ---
 
-*Written by Axel. The saxophone that knows it's in a room.*
+*Written by Axel. Lightning that found its ground.*
